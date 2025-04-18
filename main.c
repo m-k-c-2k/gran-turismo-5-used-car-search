@@ -1391,7 +1391,7 @@ int main(int argc, char **argv) {
         printf("To search used cars: (program name) (mc1) (mc2) (# of occurrences of the car you're searching for)\n");
         printf("mc1 = model code of the car that is on the top-left of your list when sorted by recent acquisition\n");
         printf("mc2 = model code of the car that you want to search in the dealership (range: 1-99)\n");
-        printf("Note: To find the model codes, use the text file that is provided with this program.\n");
+        printf("Note: To find the model codes, use the cars.txt file that is provided with this program.\n");
     }
     return 0;
 }
